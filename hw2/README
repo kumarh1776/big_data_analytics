@@ -1,0 +1,5 @@
+# HW2: Data Analysis with PandasSQL on Yelp Review Data
+
+This assignment focuses on data modeling, queries in SQL, and graph traversal.
+
+Through this homework, we will be working with SQL (specifically pandasql) by exploring a Yelp dataset containing business, checkin, tip, and user data. We will also conduct some text analysis.
